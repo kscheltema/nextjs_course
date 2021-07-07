@@ -1,1 +1,7 @@
 //our-domain.com/
+
+function HomePage () {
+  return <h1>home page</h1>
+};
+
+export default HomePage;
